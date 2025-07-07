@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/parulahlawat/Desktop/MT24128_PA01",
+      "program": "/Users/parulahlawat/Desktop/MT24128_PA01/build/Debug/outDebug"
+    }
+  ]
+}
